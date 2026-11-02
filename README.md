@@ -109,13 +109,15 @@
 
 ## 📊 GitHub 动态 / Pulse
 
+<!-- Official github-readme-stats.vercel.app is currently DEPLOYMENT_PAUSED; using maintained mirrors. -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MIKE-He-525&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKE-He-525&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=MIKE-He-525&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MIKE-He-525&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIKE-He-525&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIKE-He-525&utcOffset=8" alt="Productive time Asia/Shanghai" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIKE-He-525" alt="Repos per language" />
 </p>
 
 ---
